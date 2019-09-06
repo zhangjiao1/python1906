@@ -1,4 +1,6 @@
-print("you are very great")
+
+print("you are very cool")
+
 res = 0
 for x in range(10):
     res += x
